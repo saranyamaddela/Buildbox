@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1393</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 1</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,-100.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1615</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,10.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
